@@ -37,4 +37,5 @@ while True:
 			join("xrf-tciy-bsr")
 			#continue
 			break #just for now
+		#go on adding your meeting ids per per date and time
 
